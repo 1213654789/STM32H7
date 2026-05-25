@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\雷\\Desktop\\LVGL\\lv_port_pc_visual_studio-release-v8.3\\lv_port_pc_visual_studio-release-v8.3\\LVGL.Simulator\\LVGL.Simulator.vcxproj": {}
+  },
+  "projects": {
+    "C:\\Users\\雷\\Desktop\\LVGL\\lv_port_pc_visual_studio-release-v8.3\\lv_port_pc_visual_studio-release-v8.3\\LVGL.Simulator\\LVGL.Simulator.vcxproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\雷\\Desktop\\LVGL\\lv_port_pc_visual_studio-release-v8.3\\lv_port_pc_visual_studio-release-v8.3\\LVGL.Simulator\\LVGL.Simulator.vcxproj",
+        "projectName": "LVGL.Simulator",
+        "projectPath": "C:\\Users\\雷\\Desktop\\LVGL\\lv_port_pc_visual_studio-release-v8.3\\lv_port_pc_visual_studio-release-v8.3\\LVGL.Simulator\\LVGL.Simulator.vcxproj",
+        "packagesPath": "C:\\Users\\雷\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\雷\\Desktop\\LVGL\\lv_port_pc_visual_studio-release-v8.3\\lv_port_pc_visual_studio-release-v8.3\\Output\\Objects\\Debug\\LVGL.Simulator\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "D:\\软件\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\雷\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "native"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "native": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "native": {
+          "dependencies": {
+            "VC-LTL": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "native",
+            "uap"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        },
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm64": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

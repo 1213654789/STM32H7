@@ -1,0 +1,36 @@
+﻿  GC9A01.c
+  ILI9341.c
+  R61581.c
+  SHARP_MIP.c
+  SSD1963.c
+  ST7565.c
+  UC1610.c
+  drm.c
+  fbdev.c
+  gtkdrv.c
+  AD_touch.c
+  FT5406EE8.c
+  XPT2046.c
+  evdev.c
+  libinput.c
+  xkb.c
+  sdl.c
+  sdl_common.c
+  sdl_gpu.c
+  wayland.c
+  win32drv.c
+  win_drv.c
+C:\Users\雷\Desktop\LVGL\lv_port_pc_visual_studio-release-v8.3\lv_port_pc_visual_studio-release-v8.3\LVGL.Simulator\lvgl\src\core\lv_obj_style.h(94,48): warning C5287: 操作数是不同的枚举类型“<unnamed-enum-LV_PART_MAIN>”和“<unnamed-enum-LV_STATE_DEFAULT>”；请使用显式强制转换来静音此警告
+  (编译源文件“lv_drivers/sdl/sdl_common.c”)
+  
+C:\Users\雷\Desktop\LVGL\lv_port_pc_visual_studio-release-v8.3\lv_port_pc_visual_studio-release-v8.3\LVGL.Simulator\lvgl\src\core\lv_obj_style.h(94,48): warning C5287: 操作数是不同的枚举类型“<unnamed-enum-LV_PART_MAIN>”和“<unnamed-enum-LV_STATE_DEFAULT>”；请使用显式强制转换来静音此警告
+  (编译源文件“lv_drivers/win32drv/win32drv.c”)
+  
+C:\Users\雷\Desktop\LVGL\lv_port_pc_visual_studio-release-v8.3\lv_port_pc_visual_studio-release-v8.3\LVGL.Simulator\lv_drivers\win32drv\win32drv.c(800,40): warning C4244: “=”: 从“LONG”转换到“lv_coord_t”，可能丢失数据
+C:\Users\雷\Desktop\LVGL\lv_port_pc_visual_studio-release-v8.3\lv_port_pc_visual_studio-release-v8.3\LVGL.Simulator\lv_drivers\win32drv\win32drv.c(802,41): warning C4244: “=”: 从“LONG”转换到“lv_coord_t”，可能丢失数据
+  LVGL.Simulator.cpp
+C:\Users\雷\Desktop\LVGL\lv_port_pc_visual_studio-release-v8.3\lv_port_pc_visual_studio-release-v8.3\LVGL.Simulator\LVGL.Simulator.cpp(78,9): warning C4477: “_snwprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\雷\Desktop\LVGL\lv_port_pc_visual_studio-release-v8.3\lv_port_pc_visual_studio-release-v8.3\LVGL.Simulator\LVGL.Simulator.cpp(78,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  LVGL.Simulator.vcxproj -> C:\Users\雷\Desktop\LVGL\lv_port_pc_visual_studio-release-v8.3\lv_port_pc_visual_studio-release-v8.3\Output\Binaries\Debug\x64\LVGL.Simulator.exe
